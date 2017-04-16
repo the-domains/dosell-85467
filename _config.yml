@@ -1,0 +1,83 @@
+layout_spectrum: 0.9008796315275981
+typography_spectrum: 0.9782598952968411
+color:
+  brandColors:
+    - '#F2F2F2'
+    - '#000000'
+    - '#E32612'
+    - '#8B8B8B'
+    - '#5B5B5B'
+  brandStrength: 0.462216819422504
+  lightness: 0.9406699203236931
+  saturation: 0.41300405206767343
+  rhythmicContrast: 0.7283077692721813
+coverPrefs:
+  filter: false
+name: Sales as a Service by DoSell
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a23b0423-3619-4b7e-99d4-8c7f23f278af.png
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9592878c-5caa-4ce0-9ab1-602a89c6930a.png
+opengraph:
+  type: ''
+  appId: ''
+purpose:
+  - type: contact
+    label: Contact us
+    url: 'mailto:tibor.zahorecz@dosell.io'
+  - type: external
+    label: Professional Services
+    url: 'https://www.labsharegroup.com/'
+title: B2B Sales as a Service for Software and Information security laboratories
+description: Sales through Business Architecture
+author:
+  name: Zahorecz Tibor
+  url: 'http://www.buildventure.net/'
+  email: tibor.zahorecz@dosell.io
+content_rating:
+  adult: false
+navigation:
+  - name: Sales Strategy
+    id: cff3e278-7e4b-4e35-a4df-a8dadc85c9e5
+    type: content
+  - name: Sales Process
+    id: bcc0d57b-3964-4431-8a4e-27e9e1ab6b26
+    type: content
+  - name: Sales Tactics
+    id: 026218bd-7744-415c-988e-bb03ed9f9556
+    type: content
+  - name: Lead Generation
+    id: 1221fcf4-9557-4203-92d9-aeb7c3c07811
+    type: content
+  - name: Learn from Sales masters
+    id: a6e013b6-3b7b-4429-aa5f-f5d8df58ad24
+    type: content
+  - name: Be extraordinary sales professional
+    id: 017580bd-8e88-4bc1-88f5-e31908955cfb
+    type: content
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7fac6e1-ecb5-45ca-84be-d48bc8d5bd0e.gif">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7fac6e1-ecb5-45ca-84be-d48bc8d5bd0e.gif
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
